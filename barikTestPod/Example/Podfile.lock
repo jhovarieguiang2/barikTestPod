@@ -1,0 +1,16 @@
+PODS:
+  - barikTestPod (0.1.0)
+
+DEPENDENCIES:
+  - barikTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  barikTestPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  barikTestPod: 199c3f30ac9168ee6028be83569b0e56272e456c
+
+PODFILE CHECKSUM: 606a794efc4b8631008996b2bdc85288ffb0766a
+
+COCOAPODS: 1.1.1

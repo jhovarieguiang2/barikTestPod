@@ -1,0 +1,6 @@
+framework module barikTestPod {
+  umbrella header "barikTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
